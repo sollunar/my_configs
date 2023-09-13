@@ -3,23 +3,22 @@ window:
   decorations: none
 
 font:
-    normal:
-        family: Hack Nerd Font 
-        style: Regular
-    bold:
-        family: Hack Nerd Font
-        style: Bold
-    italic:
-        family: Hack Nerd Font 
-        style: Italic
-    bold_italic:
-        family: Hack Nerd Font 
-        style: Bold Italic
-    book:
-        family: Hack Nerd Font 
-        style: Book
-    size: 11.0
-
+  normal:
+    family: HackNerdFont
+    style: Regular
+  bold:
+    family: HackNerdFont
+    style: Bold
+  italic:
+    family: HackNerdFont
+    style: Italic
+  bold_italic:
+    family: HackNerdFont
+    style: Bold Italic
+  book:
+    family: HackNerdFont
+    style: Book
+  size: 11.0
 
 #######################################
 ##      START OF COLOR SCHEMES       ##
@@ -66,4 +65,3 @@ import:
 #  - ~/.config/alacritty/catppuccin/catppuccin-macchiato.yml
 #  - ~/.config/alacritty/catppuccin/catppuccin-frappe.yml
 #  - ~/.config/alacritty/catppuccin/catppuccin-latte.yml
-
