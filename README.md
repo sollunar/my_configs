@@ -5,4 +5,5 @@ requirements:
 2. Tmux plugin manager
 3. Alacrity colorscheme
 
-coloscheme in this config is catppuccin/
+colorscheme in this config is [catppuccin/](https://github.com/catppuccin/catppuccin)https://github.com/catppuccin/catppuccin
+for alacritty, nvim, tmux
