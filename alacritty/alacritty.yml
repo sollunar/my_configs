@@ -1,0 +1,69 @@
+window:
+  opacity: 1
+  decorations: none
+
+font:
+    normal:
+        family: Hack Nerd Font 
+        style: Regular
+    bold:
+        family: Hack Nerd Font
+        style: Bold
+    italic:
+        family: Hack Nerd Font 
+        style: Italic
+    bold_italic:
+        family: Hack Nerd Font 
+        style: Bold Italic
+    book:
+        family: Hack Nerd Font 
+        style: Book
+    size: 11.0
+
+
+#######################################
+##      START OF COLOR SCHEMES       ##
+#######################################
+# schemes:
+#   Nord: &Nord
+#     # Default colors
+#     primary:
+#       background: '#2E3440'
+#       foreground: '#D8DEE9'
+
+#     # Normal colors
+#     normal:
+#       black:   '#3B4252'
+#       red:     '#BF616A'
+#       green:   '#A3BE8C'
+#       yellow:  '#EBCB8B'
+#       blue:    '#81A1C1'
+#       magenta: '#B48EAD'
+#       cyan:    '#88C0D0'
+#       white:   '#E5E9F0'
+
+#     # Bright colors
+#     bright:
+#       black:   '#4C566A'
+#       red:     '#BF616A'
+#       green:   '#A3BE8C'
+#       yellow:  '#EBCB8B'
+#       blue:    '#81A1C1'
+#       magenta: '#B48EAD'
+#       cyan:    '#8FBCBB'
+#       white:   '#ECEFF4'
+
+# colors: *Nord
+#######################################
+##       END OF COLOR SCHEMES        ##
+#######################################
+env:
+  TERM: xterm-256color
+
+import:
+  # uncomment the flavour you want below:
+  - ~/.config/alacritty/catppuccin/catppuccin-mocha.yml
+#  - ~/.config/alacritty/catppuccin/catppuccin-macchiato.yml
+#  - ~/.config/alacritty/catppuccin/catppuccin-frappe.yml
+#  - ~/.config/alacritty/catppuccin/catppuccin-latte.yml
+
